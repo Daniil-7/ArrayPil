@@ -7,6 +7,10 @@ Author's website:
 https://tatem.pythonanywhere.com/
 ---
 # Example of using the library:
+## Installation
+```python
+pip install ArrayPil
+```
 ## importing ArrayPil
 ```python
 from ArrayPil import *
