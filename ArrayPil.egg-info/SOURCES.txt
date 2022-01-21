@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+ArrayPil/ArrayPil.py
+ArrayPil/__init__.py
+ArrayPil.egg-info/PKG-INFO
+ArrayPil.egg-info/SOURCES.txt
+ArrayPil.egg-info/dependency_links.txt
+ArrayPil.egg-info/not-zip-safe
+ArrayPil.egg-info/requires.txt
+ArrayPil.egg-info/top_level.txt
